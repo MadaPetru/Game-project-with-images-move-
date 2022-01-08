@@ -1,0 +1,11 @@
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.csproj.AssemblyReference.cache
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.Form1.resources
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.csproj.GenerateResource.cache
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\bin\Debug\GameShootTargets.exe.config
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\bin\Debug\GameShootTargets.exe
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\bin\Debug\GameShootTargets.pdb
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.Properties.Resources.resources
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.exe
+C:\Users\Adi\Desktop\Aplicati atestat\GameShootTargets\GameShootTargets\obj\Debug\GameShootTargets.pdb
